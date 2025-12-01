@@ -88,8 +88,7 @@ export default function MesProjets() {
               pour ajouter / supprimer des projets.
             </li>
             <li>
-              <strong>Stack technique :</strong> HTML5, CSS3, JavaScript
-              vanilla, appels à une API REST.
+              <strong>Stack technique :</strong> HTML5, CSS3, JavaScript, appels à une API REST.
             </li>
             <li>
               <strong>Compétences développées :</strong> manipulation du DOM,
